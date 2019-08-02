@@ -292,3 +292,11 @@ nav {
 h1 {
 	font-weight: bold;
 	font-size: 55pt;}
+
+footer li {
+	padding: 0;
+}
+
+footer li:not(:last-child) {
+	margin-right: 30px;
+}
