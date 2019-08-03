@@ -183,7 +183,8 @@ div.testimonialscolumn > div > div{
 
 div.testimonialscolumn > div > img{
 	width: 76px;
-	height: 76px;}
+	height: 76px;
+	object-fit: none;}
 
 div.testimonialscolumn > h4 {
 	display: inline;}
